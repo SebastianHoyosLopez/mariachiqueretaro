@@ -17,7 +17,7 @@
 #main {
     padding: 20px;
     color: rgb(160, 189, 212);
-    font-size: 17px;
+    font-size: 15px;
 }
 
 #main .carousel-inner img {
@@ -42,11 +42,11 @@
 }
 
 .tarjeta1 {
-    height: 150px;
+    height: 170px;
 }
 
-.tarjeta1 img {
-    width: 150px;
+.tarjeta2 img {
+    height: 170px;
 }
 
 #seccionFotos img {
