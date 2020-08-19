@@ -50,7 +50,16 @@
 }
 
 #seccionFotos img {
-    height: 200px;
+    width: 350px;
+    height: 220px;
+}
+
+#tarjeta-contacto .descripcion-producto {
+    color: white;
+}
+
+#footer .logo {
+    height: 50px;
 }
 
     
